@@ -1,0 +1,15 @@
+{
+    "Name": "Shmorb",
+    "Snippets": [
+        {
+            "SpritesheetName": "animation.png",
+            "Amount": 12,
+            "FrameHeight": 276,
+            "FrameWidth": 384,
+            "LengthSecs": 0.8,
+            "WindowAnimation": "sine wave",
+            "WindowAnimationFlags": 20,
+            "Loops": 1
+        }
+    ]
+}
