@@ -1,6 +1,7 @@
 This is a Shmorb!
 
 A Shmorbs are cool little characters made for Find the Shmorbs (a game my friends made) by my friend Spubble
+
 He also made an animation of a Shmorb as well and this is a tiny snippet of it
 
 Credits:
